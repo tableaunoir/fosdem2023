@@ -132276,6 +132276,10 @@
    ]
   },
   {
+   "type": "slidestart",
+   "userid": "root"
+  },
+  {
    "type": "freedraw",
    "userid": "root",
    "points": [
